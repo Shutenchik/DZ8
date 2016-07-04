@@ -1269,7 +1269,7 @@ body {
  	}
 
  	.header {
-    	height: 275px;
+    		height: 275px;
  	}
 
 	.header-box {
@@ -1353,7 +1353,7 @@ body {
 	}
 
 	.slaider {
-		width: 52%;
+		width: 65%;
 		height: 168px;
 		margin: 0 auto;
 		clear: both;
@@ -1597,10 +1597,10 @@ body {
 	}
 
 	.about-company__paragraph--content {
-    	padding: 0;
+    		padding: 0;
 	}
 	.about-company--content .about-company__paragraph--content:after {
-    	content: 'accusantium dignissimos architecto maiores vitae Numquam quos.';
+    		content: 'accusantium dignissimos architecto maiores vitae Numquam quos.';
 	}
 	.section-with-footer {
 		height: 112px;
@@ -1637,7 +1637,7 @@ body {
 	}
 
 	.menu__item--footer:last-child {
-    	padding-right: 20px;
+    		padding-right: 20px;
 	}
 
 	.design {
