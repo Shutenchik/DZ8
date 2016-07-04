@@ -182,14 +182,15 @@ body {
  	}
 
  	.slaider {
-		width: 86px;
+		width: 95px;
 		height: 162px;
 		margin: 0 auto;
 		position: relative;
 	}
 	.slaider--list {
 		position: absolute;
-		top: 50%;
+		top: 51%;
+		left: 7%;
 		transform: translateY(-50%);
 	}
 
@@ -241,8 +242,8 @@ body {
 	}
 
 	.about-company__paragraph {
-		width: 72%;
-		padding: 0 23px 0 64px;
+		width: 77%;
+		padding: 0 0 0 64px;
 		line-height: 23px;
 	}
 
@@ -280,7 +281,7 @@ body {
 	}
 
 	.header-icon__articles {
-    	height: auto;	
+    	height: 75px;	
 	}
 
 	.starts-here__header {
@@ -288,7 +289,7 @@ body {
 		display: inline-block;
 		padding-top: 22px;
 		position: relative;
-		left: -12px;
+		left: -15px;
 	}
 
 	.starts-here__header  span {
@@ -314,8 +315,8 @@ body {
 	
 	.slaider-list--starts-here {
 		width: 35%;
-		top: 53%;
-		left: 36%;
+		top: 48%;
+		left: 35%;
  	}
 
 	.recent-updates-box {
@@ -539,7 +540,7 @@ body {
     	position: absolute;
     	top: 32%;
     	transform: translateY(-60%);
-    	left: 45%;
+    	left: 43%;
 	}
 
 	.section-with-gradient {
@@ -672,7 +673,7 @@ body {
 	}
 
 	.slaider-list--starts-here {
-		width: 21%;
+		width: 24%;
 	}
 
 	.recent-updates__main-header {
@@ -802,7 +803,7 @@ body {
 	}
 
 	.menu__item--footer {
-		padding: 13px 11px;
+		padding: 13px 10px;
 		border: 0; 
 	}
 
@@ -889,7 +890,7 @@ body {
 		}
 	
 		.main .main-text {
-			width: 40%;
+			width: 44%;
 		}
 
 		.main-text {
@@ -941,7 +942,7 @@ body {
 			position: absolute;
 			top: 18%;
 			transform: translateX(38%);
-			left: 65%;;
+			left: 67%;;
 		}
 
 		.sprite__list {
@@ -1117,7 +1118,7 @@ body {
 		}
 
 		.recent-updates {
-			width: 96%;
+			width: 97%;
 			height: 61px;
 			margin: 7px;	
 		}
@@ -1929,7 +1930,7 @@ body {
 
 .menu__item--footer {
 	float: left;
-	display: inline-block;
+	display: inline-block;;
 }
 
 .menu__link--footer {
